@@ -444,7 +444,7 @@ Poli-Gemma 모델과 원본 Gemma 모델의 성능을 비교 분석하였다. �
 4. 범죄 분석 개체명 데이터 셋(1종):
   - 범죄 관련 특수 용어, 은어 등 200,000개 이상의 개체명 사전 구축
 
-그림: https://github.com/psi-research 운영
+![image](https://github.com/user-attachments/assets/bb1c1a5d-aed8-4f4f-916e-fe334b1efc39)
 
 ### 가. 치안 데이터셋 구축 결과와 의미 설명 과정을 표현한 웹페이지 제작
 
